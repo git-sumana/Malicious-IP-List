@@ -1,4 +1,4 @@
-# Malicious IPs Repository
+# Malicious IP List Repository
 
 This repository contains a collection of malicious IPs encountered during threat detection and cybersecurity analysis. The goal is to provide a centralized resource for tracking and sharing known malicious IP addresses to aid in improving security measures.
 
@@ -23,9 +23,6 @@ Contributions are welcome! If you'd like to add more malicious IPs to the list, 
 - **Privacy**: Please ensure no sensitive data or personally identifiable information is included when adding malicious IPs.
 - **Legal Compliance**: This repository is intended for informational purposes only. Use responsibly and adhere to relevant laws and regulations.
 
-## License
-[Specify the type of license here, e.g., MIT License]
 
 ---
-
 By sharing information, we contribute to a safer and more secure digital world. Happy hunting!
